@@ -5,7 +5,7 @@ metadata:
 spec:
   params:
     - default: nationalparks
-      name: APP_NAME
+      name: APP_NAME_dalem_Rreeshof
       type: string
     - default: 'https://github.com/openshift-roadshow/nationalparks.git'
       description: The application git repository url
