@@ -14,6 +14,8 @@ oc policy add-role-to-user view system:serviceaccount:workshop:default
 
 === Deploy from source code
 
+// YES
+
 ----
 oc new-app https://github.com/openshift-roadshow/nationalparks.git
 ----
